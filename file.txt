@@ -8,3 +8,5 @@ github update 在官网修改
 
 
 git clone after upadte
+
+git clone after upadte=2
