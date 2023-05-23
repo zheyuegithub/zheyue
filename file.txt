@@ -5,3 +5,6 @@ github update 在本地修改
 github commit 本地提交.
 
 github update 在官网修改
+
+
+git clone after upadte
